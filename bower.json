@@ -15,8 +15,8 @@
   ],
   "license": "MIT",
   "dependencies": {
-    "purescript-eff": "~1.0.0",
-    "purescript-prelude": "~1.0.0"
+    "purescript-eff": "~2.0.0",
+    "purescript-prelude": "~2.1.0"
   },
   "repository": {
     "type": "git",
@@ -33,8 +33,8 @@
     "package.json"
   ],
   "devDependencies": {
-    "purescript-console": "~1.0.0",
-    "purescript-exceptions": "~1.0.0",
-    "purescript-spec": "~1.0.1"
+    "purescript-console": "~2.0.0",
+    "purescript-exceptions": "~2.0.0",
+    "purescript-spec": "^0.11.0"
   }
 }
